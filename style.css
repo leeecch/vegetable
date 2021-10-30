@@ -160,14 +160,13 @@ nav{
 .contact_box{
     width: 444px;
     height: 140px;
-
     background-color: #F7FBDA;
 }
 .content{
     font-size: 12px;
     margin: 0;
     padding: 15px;
-    font-family: "ArialMT Regular";
+    font-family: "Arial";
     line-height: 1.25;
     color: #7D7D7D;
 }
